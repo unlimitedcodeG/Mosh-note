@@ -1,0 +1,2 @@
+# Mosh-note
+learning note
