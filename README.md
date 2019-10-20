@@ -7,6 +7,8 @@ provide to review &&practice by oneself
 ---------------------------------------------------------------
 if you think this record is Ok,just click a star
 -------------------------------------------------------
+welcome to issue me,find the problem in note
+---------------------------------------------
 made By Ryongyi learning note
 -------------------------------------------------------
 see you next time
